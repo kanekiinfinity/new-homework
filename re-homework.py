@@ -3,10 +3,14 @@ import re
 
 matn = """Welcome to our tdm tounament !
 Our gamers names are:
-Aslamboi-email:aslamboi2244@.gmail.com
-TeoTimur-email:teotimurcantFly@gmail.com
-Star Capitan-email:starcaptanhd@gmail.com
-Yakuda-email:yakudzajet57@gmail.com"""
+Aslamboi:
+aslamboi2244@.gmail.com
+TeoTimur:
+teotimurcantFly@gmail.com
+Star Capitan:
+starcaptanhd@gmail.com
+Yakudza:
+yakudzajet57@gmail.com"""
 
 andoza = r'[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+'
 
