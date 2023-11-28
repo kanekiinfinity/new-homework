@@ -25,4 +25,3 @@ print(f"Meni tug'ilganimga {sekund} sekund bolibdi")
 
 
 
-
